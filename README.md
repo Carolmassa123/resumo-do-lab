@@ -24,5 +24,4 @@ Nuvem híbrida: Organizações determinam onde executar os aplicativos. Também 
 Capex: gasto INICIAL de dinehiro em infraestrututura física. Valor que se reduz com o tempo. (inverstimento para o ambiente) (pago antes)
 Opex: Valor operacional. Gasto com produtos e serviços. Cobrado imediatamente. (pago conforme o uso)
 * Tem como prever o consumo.
-* 
 * Pesquisar sobre as categorias dentro do Azure.
