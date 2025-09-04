@@ -15,8 +15,9 @@ Capex/Opex: modelo de consumo de cada nuvem.
 
 * Nuvem se paga pós uso.
 Na nuvem pública: a despesa capital não escala verticalmente. Aplicativos podem ser provisionados e desprovisionados rapidamente (de prover, proporcionar).
+
 * Organizações pagam pelo que consomem
-* 
+
 Nuvem privada: Organização tem controle sobre os recursos. Além de responsável pela atualização e manutenção.
 
 Nuvem híbrida: Organizações determinam onde executar os aplicativos. Também controlam segurança,, conformidade e os requisitos legais. Maior flexibilidade.
