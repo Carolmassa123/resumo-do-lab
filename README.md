@@ -1,6 +1,8 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab Computação na Nuvem na DIO
+
 Computação em nuvem -
+
 Definição: serviço de computação pela internet, virtualização de data center (um computador com várias máquinas).
 
 Nuvem privada: ambiente em seu data center. Não há acesso fora da organização.
@@ -14,6 +16,7 @@ Multicloud: utiliza mais de um tipo de nuvem.
 Capex/Opex: modelo de consumo de cada nuvem.
 
 * Nuvem se paga pós uso.
+
 Na nuvem pública: a despesa capital não escala verticalmente. Aplicativos podem ser provisionados e desprovisionados rapidamente (de prover, proporcionar).
 
 * Organizações pagam pelo que consomem
